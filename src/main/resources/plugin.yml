@@ -1,0 +1,5 @@
+name: RemoveJoinLeaveMessages
+version: '${project.version}'
+main: codes.vishy.removejoinleavemessages.RemoveJoinLeaveMessages
+api-version: '1.19'
+author: v1shy
